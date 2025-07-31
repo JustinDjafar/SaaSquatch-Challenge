@@ -12,13 +12,15 @@ import pickle
 # region Preprocessing
 
 df = pd.read_json('dummy_lead_data.json')
+df['industry'] = df['industry'].str.title()
+df['focus'] = df['focus'].str.title()
 
 industries = [
-    "finance", "technology", "healthcare", "education", "retail",
-    "manufacturing", "transportation", "energy", "entertainment", "real estate"
+    "Finance", "Technology", "Healthcare", "Education", "Retail",
+    "Manufacturing", "Transportation", "Energy", "Entertainment", "Real Estate"
 ]
 
-focuses = ["networking", "partnership", "collaboration", "sales"]
+focuses = ["Networking", "Partnership", "Collaboration", "Sales"]
 
 categorical_features = ['industry', 'focus']
 text_feature = 'message'

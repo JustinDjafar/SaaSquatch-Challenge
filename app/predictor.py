@@ -7,11 +7,11 @@ import sys
 
 # region Predictor
 industries = [
-    "finance", "technology", "healthcare", "education", "retail",
-    "manufacturing", "transportation", "energy", "entertainment", "real estate"
+    "Finance", "Technology", "Healthcare", "Education", "Retail",
+    "Manufacturing", "Transportation", "Energy", "Entertainment", "Real Estate"
 ]
 
-focuses = ["networking", "partnership", "collaboration", "sales"]
+focuses = ["Networking", "Partnership", "Collaboration", "Sales"]
 max_len = 50  
 
 encoder = pickle.load(open('../src/one_hot_encoder.pkl', 'rb'))
@@ -24,7 +24,8 @@ def predict_reply_probability(industry, focus, message):
     input_text = pad_sequences(input_text, maxlen=max_len, padding='post')
 
     prob = model.predict([input_cat, input_text], verbose=0)[0][0] * 100
-    return round(prob, 2)
+    prob = round(prob, 2)
+    return prob
 
 # endregion
 # region App
@@ -45,12 +46,11 @@ def predict_reply_probability_endpoint():
     
     prob = predict_reply_probability(industry, focus, message)
     result = {
-        'industry': industry,
-        'focus': focus,
-        'message': message,
-        'reply_probability': f"{prob} %"
+        'reply_probability': f"{prob:.2f} %"
     }
     return render_template('index.html', industries=industries, focuses=focuses, result=result)
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+# endregion

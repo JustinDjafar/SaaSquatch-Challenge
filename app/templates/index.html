@@ -2,6 +2,9 @@
 <html>
 <head>
     <title>Reply Probability Predictor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+
 </head>
 <body>
     <h1>Reply Probability Predictor</h1>
@@ -11,37 +14,49 @@
     {% endif %}
     
     <form action="/predict_reply_probability" method="POST">
-        <label for="industry">Industry:</label>
-        <select name="industry" id="industry" required>
-            <option value="">-- Select Industry --</option>
-            {% for ind in industries %}
-                <option value="{{ ind }}" {% if result and result.industry == ind %}selected{% endif %}>{{ ind }}</option>
-            {% endfor %}
-        </select>
-        <br><br>
+        <div class="selector-container">
+            <div class="selector">
+                <label for="industry">Industry:</label><br>
+                <select name="industry" id="industry" required>
+                    {% for ind in industries %}
+                        <option value="{{ ind }}">{{ ind }}</option>
+                    {% endfor %}
+                </select>
+            </div>
 
-        <label for="focus">Focus:</label>
-        <select name="focus" id="focus" required>
-            <option value="">-- Select Focus --</option>
-            {% for f in focuses %}
-                <option value="{{ f }}" {% if result and result.focus == f %}selected{% endif %}>{{ f }}</option>
-            {% endfor %}
-        </select>
-        <br><br>
+            <div class="selector">
+                <label for="focus">Focus:</label><br>
+                <select name="focus" id="focus" required>
+                    {% for f in focuses %}
+                        <option value="{{ f }}">{{ f }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+        </div>
 
-        <label for="message">Message:</label><br>
-        <textarea id="message" name="message" rows="4" cols="50" required>{% if result %}{{ result.message }}{% endif %}</textarea>
         <br><br>
+        <div class="message-container">
+            <div class="message">
+                <label for="message">Message:</label><br>
+                <textarea id="message" name="message" rows="4" cols="50" required>{{ message or '' }}</textarea>
 
-        <input type="submit" value="Predict Reply Probability">
+                <div id="result" class="result-container" style="display: none;"></div>
+                <div id="loading" style="text-align: center; color: white; margin-top: 20px; display: none;">Loading...</div>
+            </div>
+        </div>
+
+        <br><br>
+        <div class="input-button">
+            <input type="submit" value="Predict Reply Probability">
+        </div>
+        
     </form>
-
     {% if result %}
-        <h2>Result:</h2>
-        <p>Industry: {{ result.industry }}</p>
-        <p>Focus: {{ result.focus }}</p>
-        <p>Message: {{ result.message }}</p>
-        <p><strong>Predicted Reply Probability: {{ result.reply_probability }}</strong></p>
+    <div class="result-container">
+            <h2>Result:</h2>
+            <p><strong>Predicted Reply Probability: {{ result.reply_probability }}</strong></p>
+        </div>
     {% endif %}
+
 </body>
 </html>
