@@ -1,0 +1,1437 @@
+[
+    {
+        "id": 1,
+        "industry": "finance",
+        "focus": "sales",
+        "message": "Dear Fintech Innovations, I'm reaching out from Horizon Solutions to discuss how our advanced analytics platform can enhance your client services. Our tools have helped financial institutions increase revenue by 15% through data-driven insights. Could we schedule a call to explore how we can support your sales goals?",
+        "reply": 1
+    },
+    {
+        "id": 2,
+        "industry": "finance",
+        "focus": "partnership",
+        "message": "Hello Capital Trust, We at Synergy Partners admire your leadership in wealth management. We believe a strategic partnership could combine our AI-driven investment tools with your expertise to deliver unparalleled value to clients. Are you available to discuss potential synergies next week?",
+        "reply": 0
+    },
+    {
+        "id": 3,
+        "industry": "finance",
+        "focus": "networking",
+        "message": "Dear Apex Banking, I'm with Nexus Consulting and would love to connect to share insights on fintech trends. Our team has deep experience in digital transformation, and I believe a conversation could spark valuable ideas for both our organizations. Could we arrange a brief call?",
+        "reply": 0
+    },
+    {
+        "id": 4,
+        "industry": "finance",
+        "focus": "collaboration",
+        "message": "Hello Quantum Finance, At Innovate Solutions, we're impressed by your innovative approach to lending. We propose a collaboration to co-develop a blockchain-based payment system that could streamline transactions. Would you be interested in exploring this opportunity?",
+        "reply": 1
+    },
+    {
+        "id": 5,
+        "industry": "technology",
+        "focus": "sales",
+        "message": "Dear TechTrend Labs, I'm from SkyNet Systems, and our cloud security platform could significantly enhance your product offerings. We’ve reduced cyber threats by 40% for similar tech firms. Can we schedule a demo to discuss how this could benefit your clients?",
+        "reply": 0
+    },
+    {
+        "id": 6,
+        "industry": "technology",
+        "focus": "partnership",
+        "message": "Hello CyberWave, We at Quantum Tech are excited about your advancements in AI. A partnership could integrate our machine learning APIs with your platforms to create cutting-edge solutions. Could we meet to discuss this potential alliance?",
+        "reply": 1
+    },
+    {
+        "id": 7,
+        "industry": "technology",
+        "focus": "networking",
+        "message": "Dear NextGen Software, I’m reaching out from Horizon Innovations to connect over shared interests in SaaS development. Our team has insights on scaling cloud solutions, and I’d love to exchange ideas. Are you free for a quick chat next week?",
+        "reply": 0
+    },
+    {
+        "id": 8,
+        "industry": "technology",
+        "focus": "collaboration",
+        "message": "Hello DataCore, At Synergy Tech, we’re inspired by your big data solutions. We’d like to collaborate on a joint project to enhance data visualization tools for enterprise clients. Could we arrange a call to explore this idea further?",
+        "reply": 0
+    },
+    {
+        "id": 9,
+        "industry": "healthcare",
+        "focus": "sales",
+        "message": "Dear MediCare Systems, I’m with HealthTech Solutions, and our telemedicine platform could expand your patient outreach. We’ve increased appointment bookings by 30% for clinics. Would you like to schedule a demo to see how we can support your growth?",
+        "reply": 1
+    },
+    {
+        "id": 10,
+        "industry": "healthcare",
+        "focus": "partnership",
+        "message": "Hello VitalHealth, We at BioInnovate are impressed by your diagnostic tools. A partnership could combine our AI-driven analytics with your devices to improve patient outcomes. Are you open to discussing this opportunity?",
+        "reply": 0
+    },
+    {
+        "id": 11,
+        "industry": "healthcare",
+        "focus": "networking",
+        "message": "Dear LifeCare Group, I’m from Nexus Health and would love to connect to discuss trends in healthcare technology. Our team has expertise in EHR integration, and I believe a conversation could benefit us both. Could we schedule a call?",
+        "reply": 1
+    },
+    {
+        "id": 12,
+        "industry": "healthcare",
+        "focus": "collaboration",
+        "message": "Hello Wellness Tech, At Synergy Health, we admire your telehealth innovations. We propose a collaboration to develop a patient engagement app that enhances care delivery. Would you be interested in exploring this?",
+        "reply": 0
+    },
+    {
+        "id": 13,
+        "industry": "education",
+        "focus": "sales",
+        "message": "Dear LearnBright Academy, I’m with EduTech Solutions, and our e-learning platform could enrich your curriculum. We’ve boosted student engagement by 25% for similar institutions. Can we arrange a demo to discuss your needs?",
+        "reply": 0
+    },
+    {
+        "id": 14,
+        "industry": "education",
+        "focus": "partnership",
+        "message": "Hello FutureEd, We at Innovate Learning are inspired by your online courses. A partnership could integrate our adaptive learning tools to personalize student experiences. Are you available to discuss this?",
+        "reply": 1
+    },
+    {
+        "id": 15,
+        "industry": "education",
+        "focus": "networking",
+        "message": "Dear SkillUp Institute, I’m from Horizon Education and would like to connect to share insights on edtech trends. We have experience scaling LMS platforms and think a chat could spark new ideas. Could we set up a call?",
+        "reply": 0
+    },
+    {
+        "id": 16,
+        "industry": "education",
+        "focus": "collaboration",
+        "message": "Hello EduCore, At Synergy Education, we’re impressed by your teacher training programs. We’d like to collaborate on a project to develop AI-driven assessment tools. Would you be open to discussing this?",
+        "reply": 0
+    },
+    {
+        "id": 17,
+        "industry": "retail",
+        "focus": "sales",
+        "message": "Dear ShopTrend, I’m with RetailTech Solutions, and our inventory management system could streamline your operations. We’ve reduced stockouts by 20% for retailers. Can we schedule a demo to explore this?",
+        "reply": 1
+    },
+    {
+        "id": 18,
+        "industry": "retail",
+        "focus": "partnership",
+        "message": "Hello UrbanMart, We at Nexus Retail admire your e-commerce platform. A partnership could combine our AI recommendation engine with your store to boost sales. Are you interested in discussing this?",
+        "reply": 0
+    },
+    {
+        "id": 19,
+        "industry": "retail",
+        "focus": "networking",
+        "message": "Dear StyleHub, I’m from Innovate Retail and would love to connect to discuss retail tech trends. Our team has insights on omnichannel strategies, and a conversation could benefit us both. Could we arrange a call?",
+        "reply": 0
+    },
+    {
+        "id": 20,
+        "industry": "retail",
+        "focus": "collaboration",
+        "message": "Hello TrendyStore, At Synergy Retail, we’re excited about your customer loyalty programs. We propose a collaboration to develop a personalized marketing platform. Would you like to explore this opportunity?",
+        "reply": 1
+    },
+    {
+        "id": 21,
+        "industry": "manufacturing",
+        "focus": "sales",
+        "message": "Dear BuildTech, I’m with IndusTech Solutions, and our automation software could optimize your production lines. We’ve increased efficiency by 15% for manufacturers. Can we set up a demo to discuss your needs?",
+        "reply": 0
+    },
+    {
+        "id": 22,
+        "industry": "manufacturing",
+        "focus": "partnership",
+        "message": "Hello CoreIndustries, We at Synergy Manufacturing are impressed by your supply chain expertise. A partnership could integrate our IoT sensors to enhance logistics. Are you open to a discussion?",
+        "reply": 1
+    },
+    {
+        "id": 23,
+        "industry": "manufacturing",
+        "focus": "networking",
+        "message": "Dear SteelWorks, I’m from Nexus Industry and would like to connect to share insights on smart manufacturing. We have experience with predictive maintenance, and a chat could spark ideas. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 24,
+        "industry": "manufacturing",
+        "focus": "collaboration",
+        "message": "Hello PrecisionMfg, At Innovate Industries, we admire your advanced robotics. We’d like to collaborate on a project to develop AI-driven quality control systems. Would you be interested?",
+        "reply": 0
+    },
+    {
+        "id": 25,
+        "industry": "transportation",
+        "focus": "sales",
+        "message": "Dear TransLogix, I’m with MoveTech Solutions, and our fleet management software could reduce your operational costs. We’ve saved 10% on fuel for similar firms. Can we arrange a demo?",
+        "reply": 1
+    },
+    {
+        "id": 26,
+        "industry": "transportation",
+        "focus": "partnership",
+        "message": "Hello SpeedFreight, We at Nexus Transport are excited about your logistics network. A partnership could combine our tracking systems with your services to improve efficiency. Are you available to discuss?",
+        "reply": 0
+    },
+    {
+        "id": 27,
+        "industry": "transportation",
+        "focus": "networking",
+        "message": "Dear UrbanTransit, I’m from Innovate Mobility and would love to connect to discuss transportation tech trends. We have insights on autonomous vehicles, and a conversation could be valuable. Could we set up a call?",
+        "reply": 0
+    },
+    {
+        "id": 28,
+        "industry": "transportation",
+        "focus": "collaboration",
+        "message": "Hello GlobalMove, At Synergy Transport, we’re impressed by your delivery solutions. We propose a collaboration to develop a last-mile optimization platform. Would you like to explore this?",
+        "reply": 1
+    },
+    {
+        "id": 29,
+        "industry": "energy",
+        "focus": "sales",
+        "message": "Dear GreenPower, I’m with EnergyTech Solutions, and our renewable energy monitoring system could enhance your operations. We’ve improved efficiency by 12% for energy firms. Can we schedule a demo?",
+        "reply": 0
+    },
+    {
+        "id": 30,
+        "industry": "energy",
+        "focus": "partnership",
+        "message": "Hello SolarBright, We at Nexus Energy admire your solar innovations. A partnership could integrate our energy storage solutions with your panels for greater impact. Are you open to discussing this?",
+        "reply": 1
+    },
+    {
+        "id": 31,
+        "industry": "energy",
+        "focus": "networking",
+        "message": "Dear EcoEnergy, I’m from Innovate Energy and would like to connect to share insights on sustainable tech. We have experience with grid optimization, and a chat could benefit us both. Could we arrange a call?",
+        "reply": 0
+    },
+    {
+        "id": 32,
+        "industry": "energy",
+        "focus": "collaboration",
+        "message": "Hello PowerGrid, At Synergy Energy, we’re excited about your smart grid technology. We’d like to collaborate on a project to enhance energy distribution systems. Would you be interested?",
+        "reply": 0
+    },
+    {
+        "id": 33,
+        "industry": "entertainment",
+        "focus": "sales",
+        "message": "Dear StreamVibe, I’m with MediaTech Solutions, and our content recommendation engine could boost your platform’s engagement. We’ve increased user retention by 20% for streaming services. Can we set up a demo?",
+        "reply": 1
+    },
+    {
+        "id": 34,
+        "industry": "entertainment",
+        "focus": "partnership",
+        "message": "Hello FunFlicks, We at Nexus Media are impressed by your production capabilities. A partnership could combine our VR technology with your content to create immersive experiences. Are you available to discuss?",
+        "reply": 0
+    },
+    {
+        "id": 35,
+        "industry": "entertainment",
+        "focus": "networking",
+        "message": "Dear PlayZone, I’m from Innovate Entertainment and would love to connect to discuss media trends. We have insights on gamification, and a conversation could spark new ideas. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 36,
+        "industry": "entertainment",
+        "focus": "collaboration",
+        "message": "Hello StarMedia, At Synergy Entertainment, we admire your streaming platform. We propose a collaboration to develop an AI-driven content curation tool. Would you like to explore this?",
+        "reply": 1
+    },
+    {
+        "id": 37,
+        "industry": "real estate",
+        "focus": "sales",
+        "message": "Dear UrbanHomes, I’m with PropTech Solutions, and our property management software could streamline your operations. We’ve reduced vacancies by 15% for realtors. Can we arrange a demo?",
+        "reply": 0
+    },
+    {
+        "id": 38,
+        "industry": "real estate",
+        "focus": "partnership",
+        "message": "Hello SkyProperties, We at Nexus Realty are excited about your commercial developments. A partnership could integrate our virtual tour platform with your listings to attract clients. Are you open to discussing?",
+        "reply": 1
+    },
+    {
+        "id": 39,
+        "industry": "real estate",
+        "focus": "networking",
+        "message": "Dear CityEstates, I’m from Innovate Realty and would like to connect to share insights on proptech trends. We have experience with smart buildings, and a chat could be valuable. Could we set up a call?",
+        "reply": 0
+    },
+    {
+        "id": 40,
+        "industry": "real estate",
+        "focus": "collaboration",
+        "message": "Hello DreamHomes, At Synergy Realty, we’re impressed by your residential projects. We’d like to collaborate on a project to develop an AI-driven property valuation tool. Would you be interested?",
+        "reply": 0
+    },
+    {
+        "id": 41,
+        "industry": "finance",
+        "focus": "sales",
+        "message": "Dear TrustBank, I’m with FinTech Solutions, and our payment processing system could enhance your client services. We’ve reduced transaction costs by 10% for banks. Can we schedule a demo to discuss your needs?",
+        "reply": 1
+    },
+    {
+        "id": 42,
+        "industry": "finance",
+        "focus": "partnership",
+        "message": "Hello WealthCore, We at Innovate Finance admire your investment platforms. A partnership could combine our robo-advisory tools with your services to attract more clients. Are you available to discuss this?",
+        "reply": 0
+    },
+    {
+        "id": 43,
+        "industry": "finance",
+        "focus": "networking",
+        "message": "Dear SecureFund, I’m from Nexus Finance and would love to connect to discuss blockchain trends. Our team has expertise in DeFi, and a conversation could spark new opportunities. Could we arrange a call?",
+        "reply": 0
+    },
+    {
+        "id": 44,
+        "industry": "finance",
+        "focus": "collaboration",
+        "message": "Hello TrueCapital, At Synergy Finance, we’re impressed by your lending solutions. We propose a collaboration to develop a credit scoring algorithm using AI. Would you be interested in exploring this?",
+        "reply": 1
+    },
+    {
+        "id": 45,
+        "industry": "technology",
+        "focus": "sales",
+        "message": "Dear CloudPeak, I’m with TechSolutions, and our DevOps platform could accelerate your development cycles. We’ve reduced deployment times by 30% for tech firms. Can we set up a demo?",
+        "reply": 0
+    },
+    {
+        "id": 46,
+        "industry": "technology",
+        "focus": "partnership",
+        "message": "Hello AIWave, We at Nexus Tech are excited about your machine learning tools. A partnership could integrate our cloud infrastructure with your AI models for scalable solutions. Are you open to discussing?",
+        "reply": 1
+    },
+    {
+        "id": 47,
+        "industry": "technology",
+        "focus": "networking",
+        "message": "Dear CodeZap, I’m from Innovate Tech and would like to connect to share insights on cybersecurity trends. We have experience with zero-trust architecture, and a chat could be valuable. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 48,
+        "industry": "technology",
+        "focus": "collaboration",
+        "message": "Hello SoftPeak, At Synergy Tech, we admire your mobile app development. We’d like to collaborate on a project to create a cross-platform analytics tool. Would you like to explore this?",
+        "reply": 0
+    },
+    {
+        "id": 49,
+        "industry": "healthcare",
+        "focus": "sales",
+        "message": "Dear HealthPlus, I’m with MediTech Solutions, and our patient management system could improve your clinic efficiency. We’ve reduced wait times by 20% for healthcare providers. Can we arrange a demo?",
+        "reply": 1
+    },
+    {
+        "id": 50,
+        "industry": "healthcare",
+        "focus": "partnership",
+        "message": "Hello CareNet, We at Innovate Health are impressed by your telemedicine platform. A partnership could combine our diagnostic AI with your services to enhance patient care. Are you available to discuss?",
+        "reply": 0
+    },
+    {
+        "id": 51,
+        "industry": "healthcare",
+        "focus": "networking",
+        "message": "Dear MediGroup, I’m from Nexus Health and would love to connect to discuss healthcare innovation trends. We have insights on wearable tech, and a conversation could benefit us both. Could we set up a call?",
+        "reply": 0
+    },
+    {
+        "id": 52,
+        "industry": "healthcare",
+        "focus": "collaboration",
+        "message": "Hello BioCare, At Synergy Health, we’re excited about your research capabilities. We propose a collaboration to develop a health monitoring app using IoT. Would you be interested?",
+        "reply": 1
+    },
+    {
+        "id": 53,
+        "industry": "education",
+        "focus": "sales",
+        "message": "Dear SmartLearn, I’m with EduTech Innovations, and our virtual classroom platform could enhance your teaching programs. We’ve increased student participation by 15% for schools. Can we schedule a demo?",
+        "reply": 0
+    },
+    {
+        "id": 54,
+        "industry": "education",
+        "focus": "partnership",
+        "message": "Hello EduBright, We at Nexus Education admire your learning management system. A partnership could integrate our gamification tools to boost engagement. Are you open to discussing this?",
+        "reply": 1
+    },
+    {
+        "id": 55,
+        "industry": "education",
+        "focus": "networking",
+        "message": "Dear LearnCore, I’m from Innovate Education and would like to connect to discuss online learning trends. We have expertise in adaptive learning, and a chat could spark ideas. Could we arrange a call?",
+        "reply": 0
+    },
+    {
+        "id": 56,
+        "industry": "education",
+        "focus": "collaboration",
+        "message": "Hello SkillBright, At Synergy Education, we’re impressed by your vocational training programs. We’d like to collaborate on a project to develop a career readiness platform. Would you like to explore this?",
+        "reply": 0
+    },
+    {
+        "id": 57,
+        "industry": "retail",
+        "focus": "sales",
+        "message": "Dear FashionTrend, I’m with RetailTech Innovations, and our POS system could streamline your checkout process. We’ve increased sales by 10% for retailers. Can we set up a demo?",
+        "reply": 1
+    },
+    {
+        "id": 58,
+        "industry": "retail",
+        "focus": "partnership",
+        "message": "Hello ShopCore, We at Nexus Retail are excited about your omnichannel strategy. A partnership could combine our loyalty platform with your stores to enhance customer retention. Are you available to discuss?",
+        "reply": 0
+    },
+    {
+        "id": 59,
+        "industry": "retail",
+        "focus": "networking",
+        "message": "Dear MarketVibe, I’m from Innovate Retail and would love to connect to discuss e-commerce trends. We have insights on personalized marketing, and a conversation could be valuable. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 60,
+        "industry": "retail",
+        "focus": "collaboration",
+        "message": "Hello UrbanShop, At Synergy Retail, we admire your sustainable practices. We propose a collaboration to develop an eco-friendly packaging solution. Would you be interested?",
+        "reply": 1
+    },
+    {
+        "id": 61,
+        "industry": "manufacturing",
+        "focus": "sales",
+        "message": "Dear TechBuild, I’m with IndusTech Innovations, and our supply chain software could optimize your operations. We’ve reduced costs by 12% for manufacturers. Can we arrange a demo?",
+        "reply": 0
+    },
+    {
+        "id": 62,
+        "industry": "manufacturing",
+        "focus": "partnership",
+        "message": "Hello CoreMfg, We at Nexus Industry are impressed by your automation systems. A partnership could integrate our predictive maintenance tools with your equipment. Are you open to discussing?",
+        "reply": 1
+    },
+    {
+        "id": 63,
+        "industry": "manufacturing",
+        "focus": "networking",
+        "message": "Dear IronWorks, I’m from Innovate Manufacturing and would like to connect to discuss Industry 4.0 trends. We have expertise in IoT integration, and a chat could benefit us both. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 64,
+        "industry": "manufacturing",
+        "focus": "collaboration",
+        "message": "Hello SmartMfg, At Synergy Industry, we’re excited about your lean manufacturing approach. We’d like to collaborate on a project to develop a digital twin for production. Would you like to explore this?",
+        "reply": 0
+    },
+    {
+        "id": 65,
+        "industry": "transportation",
+        "focus": "sales",
+        "message": "Dear FastFreight, I’m with TransTech Solutions, and our logistics platform could improve your delivery efficiency. We’ve reduced delays by 15% for transport firms. Can we set up a demo?",
+        "reply": 1
+    },
+    {
+        "id": 66,
+        "industry": "transportation",
+        "focus": "partnership",
+        "message": "Hello MoveCore, We at Nexus Transport admire your freight services. A partnership could combine our route optimization tools with your network to cut costs. Are you available to discuss?",
+        "reply": 0
+    },
+    {
+        "id": 67,
+        "industry": "transportation",
+        "focus": "networking",
+        "message": "Dear CityMove, I’m from Innovate Transport and would love to connect to discuss mobility trends. We have insights on electric vehicles, and a conversation could spark ideas. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 68,
+        "industry": "transportation",
+        "focus": "collaboration",
+        "message": "Hello TransVibe, At Synergy Transport, we’re impressed by your urban logistics. We propose a collaboration to develop a shared mobility platform. Would you be interested?",
+        "reply": 1
+    },
+    {
+        "id": 69,
+        "industry": "energy",
+        "focus": "sales",
+        "message": "Dear CleanEnergy, I’m with EnergyTech Innovations, and our grid management software could optimize your operations. We’ve reduced downtime by 10% for energy firms. Can we arrange a demo?",
+        "reply": 0
+    },
+    {
+        "id": 70,
+        "industry": "energy",
+        "focus": "partnership",
+        "message": "Hello BrightPower, We at Nexus Energy are excited about your wind energy projects. A partnership could combine our analytics platform with your systems for better efficiency. Are you open to discussing?",
+        "reply": 1
+    },
+    {
+        "id": 71,
+        "industry": "energy",
+        "focus": "networking",
+        "message": "Dear GreenGrid, I’m from Innovate Energy and would like to connect to discuss renewable energy trends. We have expertise in energy storage, and a chat could be valuable. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 72,
+        "industry": "energy",
+        "focus": "collaboration",
+        "message": "Hello EcoPower, At Synergy Energy, we admire your sustainable practices. We’d like to collaborate on a project to develop a carbon tracking platform. Would you like to explore this?",
+        "reply": 0
+    },
+    {
+        "id": 73,
+        "industry": "entertainment",
+        "focus": "sales",
+        "message": "Dear FunStream, I’m with MediaTech Innovations, and our advertising platform could boost your revenue. We’ve increased ad clicks by 25% for entertainment firms. Can we set up a demo?",
+        "reply": 1
+    },
+    {
+        "id": 74,
+        "industry": "entertainment",
+        "focus": "partnership",
+        "message": "Hello StarVibe, We at Nexus Media are impressed by your gaming platform. A partnership could combine our AR tools with your games for immersive experiences. Are you available to discuss?",
+        "reply": 0
+    },
+    {
+        "id": 75,
+        "industry": "entertainment",
+        "focus": "networking",
+        "message": "Dear PlayCore, I’m from Innovate Entertainment and would love to connect to discuss content creation trends. We have insights on interactive media, and a chat could spark ideas. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 76,
+        "industry": "entertainment",
+        "focus": "collaboration",
+        "message": "Hello MediaWave, At Synergy Entertainment, we’re excited about your film production. We propose a collaboration to develop a virtual production studio. Would you be interested?",
+        "reply": 1
+    },
+    {
+        "id": 77,
+        "industry": "real estate",
+        "focus": "sales",
+        "message": "Dear CityHomes, I’m with PropTech Innovations, and our CRM platform could enhance your client management. We’ve increased closings by 10% for realtors. Can we arrange a demo?",
+        "reply": 0
+    },
+    {
+        "id": 78,
+        "industry": "real estate",
+        "focus": "partnership",
+        "message": "Hello UrbanCore, We at Nexus Realty admire your property developments. A partnership could combine our market analytics with your projects to attract investors. Are you open to discussing?",
+        "reply": 1
+    },
+    {
+        "id": 79,
+        "industry": "real estate",
+        "focus": "networking",
+        "message": "Dear SkyEstates, I’m from Innovate Realty and would like to connect to discuss real estate tech trends. We have expertise in blockchain for transactions, and a chat could be valuable. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 80,
+        "industry": "real estate",
+        "focus": "collaboration",
+        "message": "Hello TrueHomes, At Synergy Realty, we’re impressed by your sustainable buildings. We’d like to collaborate on a project to develop a smart home platform. Would you like to explore this?",
+        "reply": 0
+    },
+    {
+        "id": 81,
+        "industry": "finance",
+        "focus": "sales",
+        "message": "Dear FinCore, I’m with TechFin Solutions, and our fraud detection system could strengthen your security. We’ve reduced fraud by 20% for banks. Can we schedule a demo?",
+        "reply": 1
+    },
+    {
+        "id": 82,
+        "industry": "finance",
+        "focus": "partnership",
+        "message": "Hello InvestBright, We at Nexus Finance are excited about your trading platform. A partnership could integrate our portfolio management tools with your services. Are you available to discuss?",
+        "reply": 0
+    },
+    {
+        "id": 83,
+        "industry": "finance",
+        "focus": "networking",
+        "message": "Dear MoneyWave, I’m from Innovate Finance and would love to connect to discuss fintech innovations. We have insights on open banking, and a conversation could spark ideas. Could we arrange a call?",
+        "reply": 0
+    },
+    {
+        "id": 84,
+        "industry": "finance",
+        "focus": "collaboration",
+        "message": "Hello SafeFund, At Synergy Finance, we admire your risk management tools. We propose a collaboration to develop an AI-driven investment advisor. Would you be interested?",
+        "reply": 1
+    },
+    {
+        "id": 85,
+        "industry": "technology",
+        "focus": "sales",
+        "message": "Dear SoftVibe, I’m with CloudTech Solutions, and our data storage platform could enhance your infrastructure. We’ve reduced costs by 15% for tech firms. Can we set up a demo?",
+        "reply": 0
+    },
+    {
+        "id": 86,
+        "industry": "technology",
+        "focus": "partnership",
+        "message": "Hello TechCore, We at Nexus Tech are impressed by your IoT solutions. A partnership could combine our analytics platform with your devices for smarter insights. Are you open to discussing?",
+        "reply": 1
+    },
+    {
+        "id": 87,
+        "industry": "technology",
+        "focus": "networking",
+        "message": "Dear DataWave, I’m from Innovate Tech and would like to connect to discuss AI trends. We have expertise in natural language processing, and a chat could be valuable. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 88,
+        "industry": "technology",
+        "focus": "collaboration",
+        "message": "Hello CodeBright, At Synergy Tech, we’re excited about your blockchain platform. We’d like to collaborate on a project to develop a decentralized app. Would you like to explore this?",
+        "reply": 0
+    },
+    {
+        "id": 89,
+        "industry": "healthcare",
+        "focus": "sales",
+        "message": "Dear TrueCare, I’m with HealthTech Innovations, and our diagnostic software could improve your patient outcomes. We’ve increased accuracy by 10% for clinics. Can we arrange a demo?",
+        "reply": 1
+    },
+    {
+        "id": 90,
+        "industry": "healthcare",
+        "focus": "partnership",
+        "message": "Hello MediVibe, We at Nexus Health admire your hospital management systems. A partnership could integrate our patient engagement tools with your platform. Are you available to discuss?",
+        "reply": 0
+    },
+    {
+        "id": 91,
+        "industry": "healthcare",
+        "focus": "networking",
+        "message": "Dear LifePlus, I’m from Innovate Health and would love to connect to discuss healthcare tech trends. We have insights on AI diagnostics, and a conversation could spark ideas. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 92,
+        "industry": "healthcare",
+        "focus": "collaboration",
+        "message": "Hello CareBright, At Synergy Health, we’re impressed by your wellness programs. We propose a collaboration to develop a mental health app. Would you be interested?",
+        "reply": 1
+    },
+    {
+        "id": 93,
+        "industry": "education",
+        "focus": "sales",
+        "message": "Dear EduVibe, I’m with LearnTech Solutions, and our assessment platform could enhance your student evaluations. We’ve improved grading efficiency by 20% for schools. Can we set up a demo?",
+        "reply": 0
+    },
+    {
+        "id": 94,
+        "industry": "education",
+        "focus": "partnership",
+        "message": "Hello StudyCore, We at Nexus Education are excited about your online programs. A partnership could combine our virtual labs with your courses for hands-on learning. Are you open to discussing?",
+        "reply": 1
+    },
+    {
+        "id": 95,
+        "industry": "education",
+        "focus": "networking",
+        "message": "Dear BrainTrust, I’m from Innovate Education and would like to connect to discuss edtech innovations. We have expertise in VR learning, and a chat could be valuable. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 96,
+        "industry": "education",
+        "focus": "collaboration",
+        "message": "Hello LearnWave, At Synergy Education, we admire your tutoring services. We’d like to collaborate on a project to develop an AI-driven study planner. Would you like to explore this?",
+        "reply": 0
+    },
+    {
+        "id": 97,
+        "industry": "retail",
+        "focus": "sales",
+        "message": "Dear ShopVibe, I’m with RetailTech Solutions, and our customer analytics platform could boost your sales. We’ve increased conversions by 15% for retailers. Can we arrange a demo?",
+        "reply": 1
+    },
+    {
+        "id": 98,
+        "industry": "retail",
+        "focus": "partnership",
+        "message": "Hello MarketCore, We at Nexus Retail are impressed by your supply chain. A partnership could combine our demand forecasting tools with your operations. Are you available to discuss?",
+        "reply": 0
+    },
+    {
+        "id": 99,
+        "industry": "retail",
+        "focus": "networking",
+        "message": "Dear TrendCore, I’m from Innovate Retail and would love to connect to discuss retail tech trends. We have insights on AI-driven merchandising, and a chat could spark ideas. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 100,
+        "industry": "retail",
+        "focus": "collaboration",
+        "message": "Hello StyleCore, At Synergy Retail, we’re excited about your brand partnerships. We propose a collaboration to develop a virtual try-on platform. Would you be interested?",
+        "reply": 1
+    },
+    {
+        "id": 101,
+        "industry": "manufacturing",
+        "focus": "sales",
+        "message": "Dear BuildCore, I’m with IndusTech Solutions, and our ERP system could streamline your production. We’ve reduced downtime by 10% for manufacturers. Can we set up a demo?",
+        "reply": 0
+    },
+    {
+        "id": 102,
+        "industry": "manufacturing",
+        "focus": "partnership",
+        "message": "Hello TechMfg, We at Nexus Industry admire your automation capabilities. A partnership could integrate our robotics software with your systems. Are you open to discussing?",
+        "reply": 1
+    },
+    {
+        "id": 103,
+        "industry": "manufacturing",
+        "focus": "networking",
+        "message": "Dear CoreBuild, I’m from Innovate Manufacturing and would like to connect to discuss smart factory trends. We have expertise in digital twins, and a chat could be valuable. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 104,
+        "industry": "manufacturing",
+        "focus": "collaboration",
+        "message": "Hello PrecisionCore, At Synergy Industry, we’re impressed by your quality control. We’d like to collaborate on a project to develop an AI inspection system. Would you like to explore this?",
+        "reply": 0
+    },
+    {
+        "id": 105,
+        "industry": "transportation",
+        "focus": "sales",
+        "message": "Dear MoveVibe, I’m with TransTech Innovations, and our telematics platform could enhance your fleet tracking. We’ve improved efficiency by 12% for transport firms. Can we arrange a demo?",
+        "reply": 1
+    },
+    {
+        "id": 106,
+        "industry": "transportation",
+        "focus": "partnership",
+        "message": "Hello FastCore, We at Nexus Transport are excited about your delivery network. A partnership could combine our AI scheduling tools with your services. Are you available to discuss?",
+        "reply": 0
+    },
+    {
+        "id": 107,
+        "industry": "transportation",
+        "focus": "networking",
+        "message": "Dear TransCore, I’m from Innovate Transport and would like to connect to discuss logistics tech trends. We have insights on autonomous drones, and a chat could spark ideas. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 108,
+        "industry": "transportation",
+        "focus": "collaboration",
+        "message": "Hello CityFreight, At Synergy Transport, we admire your urban delivery solutions. We propose a collaboration to develop a green logistics platform. Would you be interested?",
+        "reply": 1
+    },
+    {
+        "id": 109,
+        "industry": "energy",
+        "focus": "sales",
+        "message": "Dear PowerVibe, I’m with EnergyTech Solutions, and our energy analytics platform could optimize your operations. We’ve reduced costs by 15% for energy firms. Can we set up a demo?",
+        "reply": 0
+    },
+    {
+        "id": 110,
+        "industry": "energy",
+        "focus": "partnership",
+        "message": "Hello GreenCore, We at Nexus Energy are impressed by your renewable projects. A partnership could combine our battery tech with your systems for greater impact. Are you open to discussing?",
+        "reply": 1
+    },
+    {
+        "id": 111,
+        "industry": "energy",
+        "focus": "networking",
+        "message": "Dear EcoVibe, I’m from Innovate Energy and would like to connect to discuss clean energy trends. We have expertise in solar integration, and a chat could be valuable. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 112,
+        "industry": "energy",
+        "focus": "collaboration",
+        "message": "Hello PowerCore, At Synergy Energy, we’re excited about your grid innovations. We’d like to collaborate on a project to develop a smart energy platform. Would you like to explore this?",
+        "reply": 0
+    },
+    {
+        "id": 113,
+        "industry": "entertainment",
+        "focus": "sales",
+        "message": "Dear PlayVibe, I’m with MediaTech Solutions, and our streaming analytics platform could enhance your user experience. We’ve increased engagement by 20% for entertainment firms. Can we arrange a demo?",
+        "reply": 1
+    },
+    {
+        "id": 114,
+        "industry": "entertainment",
+        "focus": "partnership",
+        "message": "Hello StarCore, We at Nexus Media admire your content creation. A partnership could combine our AI editing tools with your productions for faster workflows. Are you available to discuss?",
+        "reply": 0
+    },
+    {
+        "id": 115,
+        "industry": "entertainment",
+        "focus": "networking",
+        "message": "Dear FunCore, I’m from Innovate Entertainment and would like to connect to discuss media tech trends. We have insights on VR content, and a chat could spark ideas. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 116,
+        "industry": "entertainment",
+        "focus": "collaboration",
+        "message": "Hello GameVibe, At Synergy Entertainment, we’re impressed by your esports platform. We propose a collaboration to develop a fan engagement app. Would you be interested?",
+        "reply": 1
+    },
+    {
+        "id": 117,
+        "industry": "real estate",
+        "focus": "sales",
+        "message": "Dear HomeCore, I’m with PropTech Solutions, and our listing platform could boost your property sales. We’ve increased inquiries by 15% for realtors. Can we set up a demo?",
+        "reply": 0
+    },
+    {
+        "id": 118,
+        "industry": "real estate",
+        "focus": "partnership",
+        "message": "Hello CityCore, We at Nexus Realty are excited about your urban projects. A partnership could combine our financing tools with your developments. Are you open to discussing?",
+        "reply": 1
+    },
+    {
+        "id": 119,
+        "industry": "real estate",
+        "focus": "networking",
+        "message": "Dear UrbanVibe, I’m from Innovate Realty and would like to connect to discuss proptech innovations. We have expertise in smart cities, and a chat could be valuable. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 120,
+        "industry": "real estate",
+        "focus": "collaboration",
+        "message": "Hello SkyHomes, At Synergy Realty, we admire your green buildings. We’d like to collaborate on a project to develop a sustainable property platform. Would you like to explore this?",
+        "reply": 0
+    },
+    {
+        "id": 121,
+        "industry": "finance",
+        "focus": "sales",
+        "message": "Dear TrueBank, I’m with FinTech Innovations, and our compliance software could streamline your operations. We’ve reduced audit times by 20% for banks. Can we arrange a demo?",
+        "reply": 1
+    },
+    {
+        "id": 122,
+        "industry": "finance",
+        "focus": "partnership",
+        "message": "Hello CapitalVibe, We at Nexus Finance are impressed by your lending platform. A partnership could combine our credit analytics with your services. Are you available to discuss?",
+        "reply": 0
+    },
+    {
+        "id": 123,
+        "industry": "finance",
+        "focus": "networking",
+        "message": "Dear FinWave, I’m from Innovate Finance and would love to connect to discuss payment tech trends. We have insights on digital wallets, and a chat could spark ideas. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 124,
+        "industry": "finance",
+        "focus": "collaboration",
+        "message": "Hello TrustCore, At Synergy Finance, we’re excited about your blockchain initiatives. We propose a collaboration to develop a secure transaction platform. Would you be interested?",
+        "reply": 1
+    },
+    {
+        "id": 125,
+        "industry": "technology",
+        "focus": "sales",
+        "message": "Dear TechVibe, I’m with CloudSolutions, and our API platform could enhance your integrations. We’ve reduced development time by 25% for tech firms. Can we set up a demo?",
+        "reply": 0
+    },
+    {
+        "id": 126,
+        "industry": "technology",
+        "focus": "partnership",
+        "message": "Hello CodeCore, We at Nexus Tech are impressed by your SaaS products. A partnership could combine our security tools with your platform for better protection. Are you open to discussing?",
+        "reply": 1
+    },
+    {
+        "id": 127,
+        "industry": "technology",
+        "focus": "networking",
+        "message": "Dear SoftVibe, I’m from Innovate Tech and would like to connect to discuss cloud computing trends. We have expertise in serverless architecture, and a chat could be valuable. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 128,
+        "industry": "technology",
+        "focus": "collaboration",
+        "message": "Hello DataBright, At Synergy Tech, we’re excited about your AI research. We’d like to collaborate on a project to develop a predictive analytics tool. Would you like to explore this?",
+        "reply": 0
+    },
+    {
+        "id": 129,
+        "industry": "healthcare",
+        "focus": "sales",
+        "message": "Dear CareVibe, I’m with MediTech Innovations, and our imaging software could enhance your diagnostics. We’ve improved accuracy by 15% for hospitals. Can we arrange a demo?",
+        "reply": 1
+    },
+    {
+        "id": 130,
+        "industry": "healthcare",
+        "focus": "partnership",
+        "message": "Hello HealthCore, We at Nexus Health are impressed by your patient care systems. A partnership could combine our telemedicine tools with your platform. Are you available to discuss?",
+        "reply": 0
+    },
+    {
+        "id": 131,
+        "industry": "healthcare",
+        "focus": "networking",
+        "message": "Dear MediVibe, I’m from Innovate Health and would like to connect to discuss healthcare AI trends. We have insights on predictive diagnostics, and a chat could spark ideas. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 132,
+        "industry": "healthcare",
+        "focus": "collaboration",
+        "message": "Hello TrueCare, At Synergy Health, we’re excited about your wellness initiatives. We propose a collaboration to develop a health tracking platform. Would you be interested?",
+        "reply": 1
+    },
+    {
+        "id": 133,
+        "industry": "education",
+        "focus": "sales",
+        "message": "Dear LearnVibe, I’m with EduTech Solutions, and our learning analytics platform could improve your student outcomes. We’ve increased pass rates by 10% for schools. Can we set up a demo?",
+        "reply": 0
+    },
+    {
+        "id": 134,
+        "industry": "education",
+        "focus": "partnership",
+        "message": "Hello EduCore, We at Nexus Education are impressed by your e-learning platform. A partnership could combine our VR tools with your courses for immersive learning. Are you open to discussing?",
+        "reply": 1
+    },
+    {
+        "id": 135,
+        "industry": "education",
+        "focus": "networking",
+        "message": "Dear StudyVibe, I’m from Innovate Education and would like to connect to discuss edtech trends. We have expertise in personalized learning, and a chat could be valuable. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 136,
+        "industry": "education",
+        "focus": "collaboration",
+        "message": "Hello BrainCore, At Synergy Education, we’re excited about your online tutoring. We’d like to collaborate on a project to develop a collaborative learning app. Would you like to explore this?",
+        "reply": 0
+    },
+    {
+        "id": 137,
+        "industry": "retail",
+        "focus": "sales",
+        "message": "Dear MarketVibe, I’m with RetailTech Innovations, and our e-commerce platform could boost your online sales. We’ve increased revenue by 20% for retailers. Can we arrange a demo?",
+        "reply": 1
+    },
+    {
+        "id": 138,
+        "industry": "retail",
+        "focus": "partnership",
+        "message": "Hello ShopVibe, We at Nexus Retail are impressed by your customer experience. A partnership could combine our loyalty tools with your stores for better retention. Are you available to discuss?",
+        "reply": 0
+    },
+    {
+        "id": 139,
+        "industry": "retail",
+        "focus": "networking",
+        "message": "Dear FashionCore, I’m from Innovate Retail and would like to connect to discuss retail tech trends. We have insights on AI-driven sales, and a chat could spark ideas. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 140,
+        "industry": "retail",
+        "focus": "collaboration",
+        "message": "Hello TrendVibe, At Synergy Retail, we’re excited about your marketing campaigns. We propose a collaboration to develop a customer feedback platform. Would you be interested?",
+        "reply": 1
+    },
+    {
+        "id": 141,
+        "industry": "manufacturing",
+        "focus": "sales",
+        "message": "Dear CoreMfg, I’m with IndusTech Innovations, and our automation platform could enhance your production. We’ve increased output by 15% for manufacturers. Can we set up a demo?",
+        "reply": 0
+    },
+    {
+        "id": 142,
+        "industry": "manufacturing",
+        "focus": "partnership",
+        "message": "Hello BuildVibe, We at Nexus Industry are impressed by your supply chain. A partnership could combine our IoT tools with your operations for efficiency. Are you open to discussing?",
+        "reply": 1
+    },
+    {
+        "id": 143,
+        "industry": "manufacturing",
+        "focus": "networking",
+        "message": "Dear TechBuild, I’m from Innovate Manufacturing and would like to connect to discuss automation trends. We have expertise in robotics, and a chat could be valuable. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 144,
+        "industry": "manufacturing",
+        "focus": "collaboration",
+        "message": "Hello PrecisionVibe, At Synergy Industry, we’re excited about your manufacturing tech. We’d like to collaborate on a project to develop a smart factory platform. Would you like to explore this?",
+        "reply": 0
+    },
+    {
+        "id": 145,
+        "industry": "transportation",
+        "focus": "sales",
+        "message": "Dear TransVibe, I’m with MoveTech Solutions, and our logistics software could streamline your operations. We’ve reduced costs by 10% for transport firms. Can we arrange a demo?",
+        "reply": 1
+    },
+    {
+        "id": 146,
+        "industry": "transportation",
+        "focus": "partnership",
+        "message": "Hello FastVibe, We at Nexus Transport are impressed by your freight services. A partnership could combine our tracking tools with your network. Are you available to discuss?",
+        "reply": 0
+    },
+    {
+        "id": 147,
+        "industry": "transportation",
+        "focus": "networking",
+        "message": "Dear MoveCore, I’m from Innovate Transport and would like to connect to discuss mobility trends. We have insights on smart logistics, and a chat could spark ideas. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 148,
+        "industry": "transportation",
+        "focus": "collaboration",
+        "message": "Hello CityVibe, At Synergy Transport, we’re excited about your urban transport. We propose a collaboration to develop a mobility-as-a-service platform. Would you be interested?",
+        "reply": 1
+    },
+    {
+        "id": 149,
+        "industry": "energy",
+        "focus": "sales",
+        "message": "Dear GreenVibe, I’m with EnergyTech Innovations, and our renewable platform could enhance your operations. We’ve increased efficiency by 12% for energy firms. Can we set up a demo?",
+        "reply": 0
+    },
+    {
+        "id": 150,
+        "industry": "energy",
+        "focus": "partnership",
+        "message": "Hello PowerVibe, We at Nexus Energy are impressed by your solar projects. A partnership could combine our energy analytics with your systems. Are you open to discussing?",
+        "reply": 1
+    },
+    {
+        "id": 151,
+        "industry": "energy",
+        "focus": "networking",
+        "message": "Dear EcoCore, I’m from Innovate Energy and would like to connect to discuss renewable trends. We have expertise in wind energy, and a chat could be valuable. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 152,
+        "industry": "energy",
+        "focus": "collaboration",
+        "message": "Hello CleanVibe, At Synergy Energy, we’re excited about your green tech. We’d like to collaborate on a project to develop a sustainable energy platform. Would you like to explore this?",
+        "reply": 0
+    },
+    {
+        "id": 153,
+        "industry": "entertainment",
+        "focus": "sales",
+        "message": "Dear GameCore, I’m with MediaTech Innovations, and our monetization platform could boost your revenue. We’ve increased earnings by 20% for entertainment firms. Can we arrange a demo?",
+        "reply": 1
+    },
+    {
+        "id": 154,
+        "industry": "entertainment",
+        "focus": "partnership",
+        "message": "Hello FunVibe, We at Nexus Media are impressed by your streaming services. A partnership could combine our content analytics with your platform. Are you available to discuss?",
+        "reply": 0
+    },
+    {
+        "id": 155,
+        "industry": "entertainment",
+        "focus": "networking",
+        "message": "Dear PlayVibe, I’m from Innovate Entertainment and would like to connect to discuss gaming trends. We have insights on esports, and a chat could spark ideas. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 156,
+        "industry": "entertainment",
+        "focus": "collaboration",
+        "message": "Hello StarVibe, At Synergy Entertainment, we’re excited about your media content. We propose a collaboration to develop an interactive content platform. Would you be interested?",
+        "reply": 1
+    },
+    {
+        "id": 157,
+        "industry": "real estate",
+        "focus": "sales",
+        "message": "Dear UrbanCore, I’m with PropTech Innovations, and our analytics platform could enhance your market insights. We’ve increased sales by 10% for realtors. Can we set up a demo?",
+        "reply": 0
+    },
+    {
+        "id": 158,
+        "industry": "real estate",
+        "focus": "partnership",
+        "message": "Hello SkyVibe, We at Nexus Realty are impressed by your property tech. A partnership could combine our virtual tours with your listings. Are you open to discussing?",
+        "reply": 1
+    },
+    {
+        "id": 159,
+        "industry": "real estate",
+        "focus": "networking",
+        "message": "Dear CityVibe, I’m from Innovate Realty and would like to connect to discuss real estate trends. We have expertise in proptech, and a chat could be valuable. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 160,
+        "industry": "real estate",
+        "focus": "collaboration",
+        "message": "Hello HomeVibe, At Synergy Realty, we’re excited about your smart homes. We’d like to collaborate on a project to develop a property management app. Would you like to explore this?",
+        "reply": 0
+    },
+    {
+        "id": 161,
+        "industry": "finance",
+        "focus": "sales",
+        "message": "Dear FinVibe, I’m with TechFin Innovations, and our trading platform could enhance your client services. We’ve increased returns by 15% for banks. Can we arrange a demo?",
+        "reply": 1
+    },
+    {
+        "id": 162,
+        "industry": "finance",
+        "focus": "partnership",
+        "message": "Hello WealthVibe, We at Nexus Finance are impressed by your advisory services. A partnership could combine our AI analytics with your platform. Are you available to discuss?",
+        "reply": 0
+    },
+    {
+        "id": 163,
+        "industry": "finance",
+        "focus": "networking",
+        "message": "Dear TrustVibe, I’m from Innovate Finance and would like to connect to discuss fintech trends. We have insights on blockchain payments, and a chat could spark ideas. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 164,
+        "industry": "finance",
+        "focus": "collaboration",
+        "message": "Hello CapitalCore, At Synergy Finance, we’re excited about your investment tools. We propose a collaboration to develop a financial planning app. Would you be interested?",
+        "reply": 1
+    },
+    {
+        "id": 165,
+        "industry": "technology",
+        "focus": "sales",
+        "message": "Dear CloudVibe, I’m with TechSolutions, and our cybersecurity platform could protect your systems. We’ve reduced breaches by 20% for tech firms. Can we set up a demo?",
+        "reply": 0
+    },
+    {
+        "id": 166,
+        "industry": "technology",
+        "focus": "partnership",
+        "message": "Hello AIVibe, We at Nexus Tech are impressed by your AI platforms. A partnership could combine our cloud services with your models. Are you open to discussing?",
+        "reply": 1
+    },
+    {
+        "id": 167,
+        "industry": "technology",
+        "focus": "networking",
+        "message": "Dear CodeVibe, I’m from Innovate Tech and would like to connect to discuss software trends. We have expertise in microservices, and a chat could be valuable. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 168,
+        "industry": "technology",
+        "focus": "collaboration",
+        "message": "Hello TechBright, At Synergy Tech, we’re excited about your data tools. We’d like to collaborate on a project to develop a data integration platform. Would you like to explore this?",
+        "reply": 0
+    },
+    {
+        "id": 169,
+        "industry": "healthcare",
+        "focus": "sales",
+        "message": "Dear MediCore, I’m with HealthTech Solutions, and our EHR platform could streamline your records. We’ve reduced admin time by 15% for clinics. Can we arrange a demo?",
+        "reply": 1
+    },
+    {
+        "id": 170,
+        "industry": "healthcare",
+        "focus": "partnership",
+        "message": "Hello CareVibe, We at Nexus Health are impressed by your health tech. A partnership could combine our AI diagnostics with your systems. Are you available to discuss?",
+        "reply": 0
+    },
+    {
+        "id": 171,
+        "industry": "healthcare",
+        "focus": "networking",
+        "message": "Dear HealthVibe, I’m from Innovate Health and would like to connect to discuss medical tech trends. We have insights on telemedicine, and a chat could spark ideas. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 172,
+        "industry": "healthcare",
+        "focus": "collaboration",
+        "message": "Hello TrueHealth, At Synergy Health, we’re excited about your patient services. We propose a collaboration to develop a wellness tracking app. Would you be interested?",
+        "reply": 1
+    },
+    {
+        "id": 173,
+        "industry": "education",
+        "focus": "sales",
+        "message": "Dear EduCore, I’m with LearnTech Innovations, and our LMS platform could enhance your courses. We’ve increased engagement by 20% for schools. Can we set up a demo?",
+        "reply": 0
+    },
+    {
+        "id": 174,
+        "industry": "education",
+        "focus": "partnership",
+        "message": "Hello StudyBright, We at Nexus Education are impressed by your training programs. A partnership could combine our analytics with your platform. Are you open to discussing?",
+        "reply": 1
+    },
+    {
+        "id": 175,
+        "industry": "education",
+        "focus": "networking",
+        "message": "Dear LearnVibe, I’m from Innovate Education and would like to connect to discuss edtech trends. We have expertise in AI tutoring, and a chat could be valuable. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 176,
+        "industry": "education",
+        "focus": "collaboration",
+        "message": "Hello BrainVibe, At Synergy Education, we’re excited about your online courses. We’d like to collaborate on a project to develop a learning analytics tool. Would you like to explore this?",
+        "reply": 0
+    },
+    {
+        "id": 177,
+        "industry": "retail",
+        "focus": "sales",
+        "message": "Dear ShopCore, I’m with RetailTech Solutions, and our marketing platform could boost your customer reach. We’ve increased sales by 15% for retailers. Can we arrange a demo?",
+        "reply": 1
+    },
+    {
+        "id": 178,
+        "industry": "retail",
+        "focus": "partnership",
+        "message": "Hello MarketVibe, We at Nexus Retail are impressed by your e-commerce platform. A partnership could combine our payment tools with your store. Are you available to discuss?",
+        "reply": 0
+    },
+    {
+        "id": 179,
+        "industry": "retail",
+        "focus": "networking",
+        "message": "Dear StyleVibe, I’m from Innovate Retail and would like to connect to discuss retail trends. We have insights on customer analytics, and a chat could spark ideas. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 180,
+        "industry": "retail",
+        "focus": "collaboration",
+        "message": "Hello FashionVibe, At Synergy Retail, we’re excited about your brand strategy. We propose a collaboration to develop a loyalty rewards platform. Would you be interested?",
+        "reply": 1
+    },
+    {
+        "id": 181,
+        "industry": "manufacturing",
+        "focus": "sales",
+        "message": "Dear BuildVibe, I’m with IndusTech Solutions, and our quality control software could enhance your production. We’ve reduced defects by 10% for manufacturers. Can we set up a demo?",
+        "reply": 0
+    },
+    {
+        "id": 182,
+        "industry": "manufacturing",
+        "focus": "partnership",
+        "message": "Hello CoreVibe, We at Nexus Industry are impressed by your manufacturing tech. A partnership could combine our AI tools with your systems. Are you open to discussing?",
+        "reply": 1
+    },
+    {
+        "id": 183,
+        "industry": "manufacturing",
+        "focus": "networking",
+        "message": "Dear TechMfg, I’m from Innovate Manufacturing and would like to connect to discuss automation trends. We have expertise in smart factories, and a chat could be valuable. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 184,
+        "industry": "manufacturing",
+        "focus": "collaboration",
+        "message": "Hello BuildCore, At Synergy Industry, we’re excited about your production capabilities. We’d like to collaborate on a project to develop a supply chain platform. Would you like to explore this?",
+        "reply": 0
+    },
+    {
+        "id": 185,
+        "industry": "transportation",
+        "focus": "sales",
+        "message": "Dear FastCore, I’m with TransTech Solutions, and our tracking platform could improve your logistics. We’ve reduced delays by 15% for transport firms. Can we arrange a demo?",
+        "reply": 1
+    },
+    {
+        "id": 186,
+        "industry": "transportation",
+        "focus": "partnership",
+        "message": "Hello MoveVibe, We at Nexus Transport are impressed by your delivery services. A partnership could combine our analytics with your network. Are you available to discuss?",
+        "reply": 0
+    },
+    {
+        "id": 187,
+        "industry": "transportation",
+        "focus": "networking",
+        "message": "Dear TransVibe, I’m from Innovate Transport and would like to connect to discuss logistics trends. We have insights on green transport, and a chat could spark ideas. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 188,
+        "industry": "transportation",
+        "focus": "collaboration",
+        "message": "Hello CityCore, At Synergy Transport, we’re excited about your mobility solutions. We propose a collaboration to develop a logistics optimization platform. Would you be interested?",
+        "reply": 1
+    },
+    {
+        "id": 189,
+        "industry": "energy",
+        "focus": "sales",
+        "message": "Dear CleanCore, I’m with EnergyTech Solutions, and our monitoring platform could enhance your energy systems. We’ve increased efficiency by 10% for energy firms. Can we set up a demo?",
+        "reply": 0
+    },
+    {
+        "id": 190,
+        "industry": "energy",
+        "focus": "partnership",
+        "message": "Hello GreenVibe, We at Nexus Energy are impressed by your renewable tech. A partnership could combine our storage solutions with your projects. Are you open to discussing?",
+        "reply": 1
+    },
+    {
+        "id": 191,
+        "industry": "energy",
+        "focus": "networking",
+        "message": "Dear PowerVibe, I’m from Innovate Energy and would like to connect to discuss energy trends. We have expertise in smart grids, and a chat could be valuable. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 192,
+        "industry": "energy",
+        "focus": "collaboration",
+        "message": "Hello EcoVibe, At Synergy Energy, we’re excited about your sustainability efforts. We’d like to collaborate on a project to develop an energy efficiency platform. Would you like to explore this?",
+        "reply": 0
+    },
+    {
+        "id": 193,
+        "industry": "entertainment",
+        "focus": "sales",
+        "message": "Dear FunCore, I’m with MediaTech Solutions, and our analytics platform could boost your content engagement. We’ve increased views by 25% for entertainment firms. Can we arrange a demo?",
+        "reply": 1
+    },
+    {
+        "id": 194,
+        "industry": "entertainment",
+        "focus": "partnership",
+        "message": "Hello GameVibe, We at Nexus Media are impressed by your gaming tech. A partnership could combine our monetization tools with your platform. Are you available to discuss?",
+        "reply": 0
+    },
+    {
+        "id": 195,
+        "industry": "entertainment",
+        "focus": "networking",
+        "message": "Dear StarCore, I’m from Innovate Entertainment and would like to connect to discuss media trends. We have insights on streaming tech, and a chat could spark ideas. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 196,
+        "industry": "entertainment",
+        "focus": "collaboration",
+        "message": "Hello PlayCore, At Synergy Entertainment, we’re excited about your content platform. We propose a collaboration to develop a social media integration tool. Would you be interested?",
+        "reply": 1
+    },
+    {
+        "id": 197,
+        "industry": "real estate",
+        "focus": "sales",
+        "message": "Dear CityCore, I’m with PropTech Solutions, and our marketing platform could boost your property listings. We’ve increased leads by 20% for realtors. Can we set up a demo?",
+        "reply": 0
+    },
+    {
+        "id": 198,
+        "industry": "real estate",
+        "focus": "partnership",
+        "message": "Hello UrbanVibe, We at Nexus Realty are impressed by your developments. A partnership could combine our analytics with your projects. Are you open to discussing?",
+        "reply": 1
+    },
+    {
+        "id": 199,
+        "industry": "real estate",
+        "focus": "networking",
+        "message": "Dear SkyCore, I’m from Innovate Realty and would like to connect to discuss real estate trends. We have expertise in market forecasting, and a chat could be valuable. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 200,
+        "industry": "real estate",
+        "focus": "collaboration",
+        "message": "Hello HomeCore, At Synergy Realty, we’re excited about your property tech. We’d like to collaborate on a project to develop a tenant management platform. Would you like to explore this?",
+        "reply": 0
+    },
+    {
+        "id": 201,
+        "industry": "finance",
+        "focus": "sales",
+        "message": "Dear TrustCore, I’m with FinTech Solutions, and our analytics platform could enhance your investment decisions. We’ve increased returns by 10% for banks. Can we arrange a demo?",
+        "reply": 1
+    },
+    {
+        "id": 202,
+        "industry": "finance",
+        "focus": "partnership",
+        "message": "Hello FinCore, We at Nexus Finance are impressed by your payment systems. A partnership could combine our security tools with your platform. Are you available to discuss?",
+        "reply": 0
+    },
+    {
+        "id": 203,
+        "industry": "finance",
+        "focus": "networking",
+        "message": "Dear WealthCore, I’m from Innovate Finance and would like to connect to discuss fintech trends. We have insights on AI investing, and a chat could spark ideas. Could we schedule a call?",
+        "reply": 0
+    },
+    {
+        "id": 204,
+        "industry": "finance",
+        "focus": "collaboration",
+        "message": "Hello CapitalVibe, At Synergy Finance, we’re excited about your lending tech. We propose a collaboration to develop a blockchain payment system. Would you be interested?",
+        "reply": 1
+    },
+    {
+        "id": 205,
+        "industry": "technology",
+        "focus": "sales",
+        "message": "Dear TechCore, I’m with CloudTech Solutions, and our integration platform could streamline your workflows. We’ve reduced costs by 15% for tech firms. Can we set up a demo?",
+        "reply": 0
+    }
+]

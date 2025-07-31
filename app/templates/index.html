@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Reply Probability Predictor</title>
+</head>
+<body>
+    <h1>Reply Probability Predictor</h1>
+    
+    {% if error %}
+        <p style="color: red;">{{ error }}</p>
+    {% endif %}
+    
+    <form action="/predict_reply_probability" method="POST">
+        <label for="industry">Industry:</label>
+        <select name="industry" id="industry" required>
+            <option value="">-- Select Industry --</option>
+            {% for ind in industries %}
+                <option value="{{ ind }}" {% if result and result.industry == ind %}selected{% endif %}>{{ ind }}</option>
+            {% endfor %}
+        </select>
+        <br><br>
+
+        <label for="focus">Focus:</label>
+        <select name="focus" id="focus" required>
+            <option value="">-- Select Focus --</option>
+            {% for f in focuses %}
+                <option value="{{ f }}" {% if result and result.focus == f %}selected{% endif %}>{{ f }}</option>
+            {% endfor %}
+        </select>
+        <br><br>
+
+        <label for="message">Message:</label><br>
+        <textarea id="message" name="message" rows="4" cols="50" required>{% if result %}{{ result.message }}{% endif %}</textarea>
+        <br><br>
+
+        <input type="submit" value="Predict Reply Probability">
+    </form>
+
+    {% if result %}
+        <h2>Result:</h2>
+        <p>Industry: {{ result.industry }}</p>
+        <p>Focus: {{ result.focus }}</p>
+        <p>Message: {{ result.message }}</p>
+        <p><strong>Predicted Reply Probability: {{ result.reply_probability }}</strong></p>
+    {% endif %}
+</body>
+</html>
