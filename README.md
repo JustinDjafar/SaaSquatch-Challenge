@@ -1,50 +1,96 @@
 # SaaSquatch Reply Probability Predictor
 
-This project enhances the SaaSquatch Leads platform by predicting the probability of a reply to an email outreach based on `industry`, `focus`, and `message`. It uses a TensorFlow LSTM model and integrates with a Flask web interface.
+This project enhances the **SaaSquatch Leads** platform by predicting the probability of receiving a reply to an email outreach. It uses an LSTM-based TensorFlow model and provides a simple web interface built with Flask.
 
-## Setup Instructions
-1. **Install Python 3.10**:
-   - Download from [python.org](https://www.python.org/downloads/release/python-3109/) or use the Microsoft Store.
-   - Ensure a 64-bit installation.
+You can either **train the model from scratch** (Option 1) or **use the pre-trained model files** (Option 2).
 
-2. **Create a Virtual Environment**:
-   ```bash
-   python3.10 -m venv caprae_env
-   source caprae_env/bin/activate  # Linux/Mac
-   .\caprae_env\Scripts\activate  # Windows
-   ```
+> ⚠️ Requires Python 3.10 and TensorFlow 2.19. You can install them manually or use a virtual environment.
 
-3. **Install Dependencies**:
+---
+
+## 🔧 Setup Instructions
+
+### Option 1: Train the Model from Scratch
+
+1. **Install Dependencies**
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **Prepare Data**:
-   - Place `dummy_lead_data.json` in the project directory (contains 300 entries with `industry`, `focus`, `message`, `reply`).
+2. **Prepare Dataset**
+   - Place the file `dummy_lead_data.json` in the project directory.
+   - The file should contain 300 entries with the following fields:
+     - `industry`
+     - `focus`
+     - `message`
+     - `reply`
 
-5. **Run the Application**:
+3. **Train the Model**
    ```bash
    python model.py
    ```
-   - Access the web interface at `http://localhost:5000`.
-   - Test the API with:
-     ```bash
-     curl -X POST -H "Content-Type: application/json" -d '{"industry":"finance","focus":"networking","message":"hello im interested in digital transformation"}' http://localhost:5000/predict_reply_probability
-     ```
+   - This will train the model and generate:
+     - `reply_probability_model.keras`
+     - `tokenizer.pkl`
+     - `one_hot_encoder.pkl`
 
-## Files
-- `model.py`: Main script with LSTM model, Flask app, and prediction logic.
-- `templates/index.html`: HTML form for user input and result display.
-- `requirements.txt`: Dependencies.
-- `dummy_lead_data.json`: Dataset (not included in repo due to permissions; structure: `id`, `industry`, `focus`, `message`, `reply`).
-- `one_hot_encoder.pkl`, `tokenizer.pkl`, `reply_probability_model.keras`: Generated during training.
+4. **Run the Web Application**
+   ```bash
+   python predictor.py
+   ```
+   - Open [http://localhost:5000](http://localhost:5000) in your browser to use the predictor.
 
-## Usage
-- Open `http://localhost:5000` in a browser.
-- Select an `industry` and `focus`, enter a `message`, and click "Predict Reply Probability".
-- View the predicted reply probability (e.g., "22.10%").
+---
 
-## Notes
-- Built in ~5 hours for the SaaSquatch Leads challenge.
-- Model accuracy/F1-score printed during training (e.g., ~0.85/0.80).
-- See `report.md` for detailed approach and evaluation.
+### Option 2: Use Pre-trained Model
+
+1. Ensure the following files exist in the project directory:
+   - `reply_probability_model.keras`
+   - `tokenizer.pkl`
+   - `one_hot_encoder.pkl`
+
+2. **Install Dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the Web Application**
+   ```bash
+   python predictor.py
+   ```
+   - Open [http://localhost:5000](http://localhost:5000) in your browser.
+
+---
+
+## 📁 Project Structure
+
+| File                          | Description                                                |
+|-------------------------------|------------------------------------------------------------|
+| `model.py`                    | LSTM model training, preprocessing, and evaluation script  |
+| `predictor.py`                | Flask web server and prediction logic                      |
+| `templates/index.html`        | Web UI for user input and prediction result display        |
+| `requirements.txt`            | Python dependencies list                                   |
+| `dummy_lead_data.json`        | Sample dataset with 300 entries                            |
+| `reply_probability_model.keras` | Pre-trained model file                                   |
+| `tokenizer.pkl`               | Tokenizer for processing message text                      |
+| `one_hot_encoder.pkl`         | Encoder for industry and focus fields                      |
+
+---
+
+## 🚀 Usage
+
+1. Open your browser and go to [http://localhost:5000](http://localhost:5000).
+2. Select an **Industry** and **Focus**, type your **Message**, then click **Predict Reply Probability**.
+3. You will see the predicted reply probability (e.g., `22.10%`).
+
+---
+
+## 📌 Notes
+
+- Built in ~5 hours for the SaaSquatch Leads Challenge.
+- Training performance:  
+  - Accuracy ≈ **0.85**  
+  - F1 Score ≈ **0.80**
+- For a deeper explanation, refer to `report.md`.
+
+---
