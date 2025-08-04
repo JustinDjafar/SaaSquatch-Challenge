@@ -1,4 +1,5 @@
 # Reply Probability Predictor for SaaSquatch Leads
+<img width="683" height="537" alt="image" src="https://github.com/user-attachments/assets/545c7ac9-638c-467a-8efa-88ae904dda00" />
 
 **Problem**: SaaSquatch Leads users can send emails directly from the platform, with Dr. Larry LeadGen assisting in crafting context-based emails. However, users risk wasting valuable tokens on emails that are unlikely to receive responses due to poorly chosen contexts, such as targeting unresponsive industries. An alternative is to enhance Dr. Larry’s email generation capabilities to produce more effective emails.
 
