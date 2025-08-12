@@ -26,7 +26,7 @@ categorical_features = ['industry', 'focus']
 text_feature = 'message'
 text_feature = 'message'
 max_words = 1000
-max_len = 50
+max_len = 30
 embedding_dim = 100
 
 encoder = OneHotEncoder(sparse_output=False, handle_unknown='ignore', categories=[industries, focuses])

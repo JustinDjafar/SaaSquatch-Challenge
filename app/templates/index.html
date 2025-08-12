@@ -19,7 +19,7 @@
                 <label for="industry">Industry:</label><br>
                 <select name="industry" id="industry" required>
                     {% for ind in industries %}
-                        <option value="{{ ind }}">{{ ind }}</option>
+                        <option value="{{ ind }}" {% if ind == industry %}selected{% endif %}>{{ ind }}</option>
                     {% endfor %}
                 </select>
             </div>
@@ -28,7 +28,7 @@
                 <label for="focus">Focus:</label><br>
                 <select name="focus" id="focus" required>
                     {% for f in focuses %}
-                        <option value="{{ f }}">{{ f }}</option>
+                        <option value="{{ f }}" {% if f == focus %}selected{% endif %}>{{ f }}</option>
                     {% endfor %}
                 </select>
             </div>

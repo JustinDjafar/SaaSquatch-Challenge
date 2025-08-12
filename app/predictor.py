@@ -12,7 +12,7 @@ industries = [
 ]
 
 focuses = ["Networking", "Partnership", "Collaboration", "Sales"]
-max_len = 50  
+max_len = 30
 
 encoder = pickle.load(open('../src/one_hot_encoder.pkl', 'rb'))
 tokenizer = pickle.load(open('../src/tokenizer.pkl', 'rb'))
@@ -42,13 +42,13 @@ def predict_reply_probability_endpoint():
     focus = request.form.get('focus')
     message = request.form.get('message')
     if not industry or not focus or not message:
-        return render_template('index.html', industries=industries, focuses=focuses, error="Please fill all fields.")
+        return render_template('index.html', industry=industry, industries=industries, focus=focus, focuses=focuses, message=message, error="Please fill all fields.")
     
     prob = predict_reply_probability(industry, focus, message)
     result = {
         'reply_probability': f"{prob:.2f} %"
     }
-    return render_template('index.html', industries=industries, focuses=focuses, result=result)
+    return render_template('index.html', industry=industry, industries=industries, focus=focus, focuses=focuses, message=message, result=result)
 
 if __name__ == '__main__':
     app.run(debug=True)
